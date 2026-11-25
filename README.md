@@ -17,8 +17,15 @@
 - Worked as DBA, Administering 28 database servers (SQL Server, Oracle, PostgreSQL)
 - Gave BI consulting for clients such as TV Globo and Daiichi Sankyo
 
+## Projects
+[ARDA] — Management application for a martial arts gym, in production with ~150 active students. Handles students, classes, monthly fees, Prajied (Muay Thai) promotions and attendance. Built with Oracle APEX, PL/SQL and an PowerDesigner.
+
 ## Currently learning
 
 Python · Spark / Databricks · dbt · Docker · Azure
 
 Follow my progress in the repositories below 👇
+
+## Connect
+
+[LinkedIn]([your LinkedIn URL]) · [your e-mail]
