@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @wolfganthomas
-- 👀 I’m a data database designer (data modeling, ETL, Business Intelligence), I'm interested in Azure, SQL Server, Oracle Database, Oracle Apex, Python, Dart, Flutter ...
+# Hi, I'm Thomas 👋
 
+**Data Engineer | Data Administrator** — 10+ years designing, building and tuning databases for government and financial institutions in Brazil.
 
-<!---
-wolfganthomas/wolfganthomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I do
+
+- **Data modeling** (relational & dimensional) — SAP PowerDesigner, ERwin
+- **Database development & performance tuning** — Oracle, SQL Server, PostgreSQL, DB2
+- **ETL & data integration** — SSIS, Informatica PowerCenter, Pentaho
+- **BI & reporting** — Power BI, Reporting Services, Looker
+- **Legacy database modernization** — reverse engineering, data migration, query optimization
+
+## Experience highlights
+
+- Data administration for Rio de Janeiro's Court of Justice (TJRJ) and Brazil's National Civil Aviation Agency (ANAC)
+- Data modeling for Banco do Brasil (Oracle and DB2)
+- Worked as DBA, Administering 28 database servers (SQL Server, Oracle, PostgreSQL)
+- Gave BI consulting for clients such as TV Globo and Daiichi Sankyo
+
+## Currently learning
+
+Python · Spark / Databricks · dbt · Docker · Azure
+
+Follow my progress in the repositories below 👇
