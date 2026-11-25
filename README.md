@@ -24,8 +24,3 @@
 
 Python · Spark / Databricks · dbt · Docker · Azure
 
-Follow my progress in the repositories below 👇
-
-## Connect
-
-[LinkedIn]([your LinkedIn URL]) · [your e-mail]
